@@ -20,7 +20,7 @@ msgstr ""
 #: lib-src/FileDialog/gtk/FileDialogPrivate.cpp:75
 #, c-format
 msgid "File '%s' already exists, do you really want to overwrite it?"
-msgstr "'%s' agiria jadanik badago, egitan nahi duzu gainidaztea?"
+msgstr "'%s' fitxategia jadanik badago, egitan nahi duzu gainidaztea?"
 
 #: lib-src/FileDialog/gtk/FileDialogPrivate.cpp:78 src/LangChoice.cpp:135
 msgid "Confirm"
@@ -49,12 +49,12 @@ msgstr "Akatsa"
 
 #: lib-src/FileDialog/mac/FileDialogPrivate.mm:484
 msgid "File type:"
-msgstr "Iragazki mota:"
+msgstr "Fitxategi mota:"
 
 #: lib-src/FileDialog/win/FileDialogPrivate.cpp:860
 #, c-format
 msgid "File dialog failed with error code %0lx."
-msgstr "Agiri elkarrizketa hutsegitea %0lx akats kodearekin."
+msgstr "Fitxategi elkarrizketa hutsegitea %0lx akats kodearekin."
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:189
 msgid "&Nyquist Workbench..."
@@ -62,35 +62,35 @@ msgstr "&Nyquist Lan-azterketa..."
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:746
 msgid "&Undo\tCtrl+Z"
-msgstr "&Desegin\tKtrl+Z"
+msgstr "&Desegin\tCtrl+Z"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:747
 msgid "&Redo\tCtrl+Y"
-msgstr "&Berregin\tKtrl+Y"
+msgstr "&Berregin\tCtrl+Y"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:749
 msgid "Cu&t\tCtrl+X"
-msgstr "&Ebakit\tKtrl+X"
+msgstr "&Ebakit\tCtrl+X"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:750
 msgid "&Copy\tCtrl+C"
-msgstr "&Kopiatu\tKtrl+C"
+msgstr "&Kopiatu\tCtrl+C"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:751
 msgid "&Paste\tCtrl+V"
-msgstr "&Itsatsi\tKtrl+V"
+msgstr "&Itsatsi\tCtrl+V"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:752
 msgid "Cle&ar\tCtrl+L"
-msgstr "&Garbitu\tKtrl+L"
+msgstr "&Garbitu\tCtrl+L"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:754
 msgid "Select A&ll\tCtrl+A"
-msgstr "Hautatu &Denak\tKtrl+A"
+msgstr "Hautatu &Denak\tCtrl+A"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:756
 msgid "&Find...\tCtrl+F"
-msgstr "&Bilatu...\tKtrl+F"
+msgstr "&Bilatu...\tCtrl+F"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:759
 msgid "&Matching Paren\tF8"
@@ -118,19 +118,19 @@ msgstr "&Joan hona"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:770
 msgid "Select &Font..."
-msgstr "Hautatu &Hizkia..."
+msgstr "Hautatu &Letra-tipoa..."
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:772
 msgid "Split &Vertically"
-msgstr "Banandu &Zutika"
+msgstr "Banandu &Bertikalki"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:773
 msgid "Split &Horizontally"
-msgstr "Ba&nandu Etzanean"
+msgstr "Banandu &Horizontalki"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:775
 msgid "Show S&cript"
-msgstr "Erakutsi Eskri&pta"
+msgstr "Erakutsi Es&ripta"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:776
 msgid "Show &Output"
@@ -175,7 +175,7 @@ msgstr "Irteera"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:1052 src/effects/nyquist/Nyquist.cpp:2141
 msgid "Load Nyquist script"
-msgstr "Gertatu Nyquist Eskripta"
+msgstr "Kargatu Nyquist eskripta"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:1055
 #: lib-src/mod-nyq-bench/NyqBench.cpp:1101 src/effects/nyquist/Nyquist.cpp:2166
@@ -238,7 +238,7 @@ msgstr "Ez da bat datorrenik aurkitu"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:1625
 msgid "Code has been modified.  Are you sure?"
-msgstr "Kodea aldatu egin da. Zihur zaude?"
+msgstr "Kodea aldatu egin da. Ziur zaude?"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:1639
 msgid "Untitled"
@@ -275,7 +275,7 @@ msgstr "Gorde eskripta"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:1712
 msgid "Save As"
-msgstr "Gorde Honela"
+msgstr "Gorde honela"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:1712
 msgid "Save script as..."
@@ -296,7 +296,7 @@ msgstr "Ebaki"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:1715
 msgid "Cut to clipboard"
-msgstr "Kopiatu gakora"
+msgstr "Kopiatu arbelara"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:1716 src/Menus.cpp:4405
 #: src/Menus.cpp:4429 src/Menus.cpp:4534 src/toolbars/EditToolBar.cpp:135
@@ -306,7 +306,7 @@ msgstr "Itsatsi"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:1716
 msgid "Paste from clipboard"
-msgstr "Itsatsi gakotik"
+msgstr "Itsatsi arbelatik"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:1717
 msgid "Clear"
@@ -318,11 +318,11 @@ msgstr "Garbitu hautapena"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:1718
 msgid "Select All"
-msgstr "Hautatu Denak"
+msgstr "Hautatu dena"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:1718
 msgid "Select all text"
-msgstr "Hautatu idazki denak"
+msgstr "Hautatu testu osoa"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:1720 src/prefs/KeyConfigPrefs.cpp:883
 #: src/toolbars/EditToolBar.cpp:144 src/toolbars/EditToolBar.cpp:211
@@ -350,15 +350,15 @@ msgstr "Bilatu"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:1723
 msgid "Find text"
-msgstr "Bilatu idazkia"
+msgstr "Bilatu testua"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:1725
 msgid "Match"
-msgstr "Bat"
+msgstr "Bat-etortzea"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:1725
 msgid "Go to matching paren"
-msgstr "Joan bat datorrenera"
+msgstr "Joan bat dator parentesira"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:1726
 msgid "Top"
@@ -366,7 +366,7 @@ msgstr "Goia"
 
 #: lib-src/mod-nyq-bench/NyqBench.cpp:1726
 msgid "Go to top S-expr"
-msgstr "Joan top S-expr-ra"
+msgstr "Joan top S-expr-era"
 
 #. i18n-hint: a direction.
 #: lib-src/mod-nyq-bench/NyqBench.cpp:1727 src/Menus.cpp:3276
@@ -416,7 +416,7 @@ msgstr "Gorde eskripta"
 
 #: src/AboutDialog.cpp:54
 msgid "quality assurance"
-msgstr "ontasun segurtasuna"
+msgstr "kalitate segurtasuna"
 
 #: src/AboutDialog.cpp:55 src/AboutDialog.cpp:58 src/AboutDialog.cpp:61
 #: src/AboutDialog.cpp:62 src/AboutDialog.cpp:64 src/AboutDialog.cpp:65
@@ -441,7 +441,7 @@ msgstr "garatzailea"
 
 #: src/AboutDialog.cpp:56
 msgid "documentation and support, French"
-msgstr "agiritza eta sostengua, Frantziera"
+msgstr "dokumentazio eta sostengua, frantsesa"
 
 #: src/AboutDialog.cpp:57
 msgid "system administration"
@@ -449,16 +449,16 @@ msgstr "sistemaren administrazioa"
 
 #: src/AboutDialog.cpp:59 src/AboutDialog.cpp:78
 msgid "co-founder and developer"
-msgstr "sorkidea eta garatzailea"
+msgstr "sortzailekide eta garatzaile"
 
 #: src/AboutDialog.cpp:63 src/AboutDialog.cpp:68 src/AboutDialog.cpp:82
 #: src/AboutDialog.cpp:83
 msgid "documentation and support"
-msgstr "agiritza eta sostengua"
+msgstr "dokumentazioa eta sostengua"
 
 #: src/AboutDialog.cpp:88
 msgid "accessibility advisor"
-msgstr "Erraztasun Aholkularia"
+msgstr "erabilerraztasun aholkularia"
 
 #: src/AboutDialog.cpp:107
 msgid "graphic artist"
@@ -466,11 +466,11 @@ msgstr "artista grafikoa"
 
 #: src/AboutDialog.cpp:114
 msgid "composer"
-msgstr "konposatzailea"
+msgstr "konpositorea"
 
 #: src/AboutDialog.cpp:117
 msgid "Nyquist plug-ins"
-msgstr "Nyquist plug-inak"
+msgstr "Nyquist pluginak"
 
 #: src/AboutDialog.cpp:185
 msgid "incorporating"
@@ -478,13 +478,13 @@ msgstr "gehitzen"
 
 #: src/AboutDialog.cpp:239
 msgid "About Audacity"
-msgstr "Audacityri buruz"
+msgstr "Audacity-ri buruz"
 
 #. i18n-hint: In most languages OK is to be translated as OK.  It appears on a button.
 #: src/AboutDialog.cpp:257 src/effects/nyquist/Nyquist.cpp:2279
 #: src/widgets/ErrorDialog.cpp:126 src/widgets/MultiDialog.cpp:128
 msgid "OK"
-msgstr "Ongi"
+msgstr "Ados"
 
 #: src/AboutDialog.cpp:272
 msgid ""
@@ -533,11 +533,11 @@ msgstr "Kreditoak"
 
 #: src/AboutDialog.cpp:310
 msgid "Audacity Team Members"
-msgstr "Audacity Taldeko Kideak"
+msgstr "Audacity taldeko kideak"
 
 #: src/AboutDialog.cpp:313
 msgid "Emeritus:"
-msgstr "Zaharrak:"
+msgstr "Emeritu:"
 
 #: src/AboutDialog.cpp:314
 msgid "Distinguished Audacity Team members, not currently active"
@@ -561,7 +561,7 @@ msgstr "Eskerrak:"
 
 #: src/AboutDialog.cpp:331
 msgid "<b>Audacity<sup>&reg;</sup></b> software is copyright"
-msgstr "<b>Audacity<sup>&reg;</sup></b> software copyrighta"
+msgstr "<b>Audacity<sup>&reg;</sup></b> softwareak copyright lizentzia du"
 
 #: src/AboutDialog.cpp:333
 msgid ""
@@ -569,7 +569,7 @@ msgid ""
 "Dominic Mazzoni."
 msgstr ""
 " <b>Audacity<sup>&reg;</sup></b> izena Dominic Mazzonik erregistraturiko "
-"egilemarka da."
+"marka du."
 
 #: src/AboutDialog.cpp:334
 msgid ""
@@ -582,7 +582,7 @@ msgstr ""
 #. i18n-hint: Information about when audacity was compiled
 #: src/AboutDialog.cpp:391 src/AboutDialog.cpp:404 src/AboutDialog.cpp:575
 msgid "Build Information"
-msgstr "Eraiketa Argibideak"
+msgstr "Konpilazio argibideak"
 
 #: src/AboutDialog.cpp:397 src/PluginManager.cpp:490
 #: src/prefs/ModulePrefs.cpp:99
@@ -596,16 +596,16 @@ msgstr "Ezgaituta"
 
 #: src/AboutDialog.cpp:408
 msgid "File Format Support"
-msgstr "Agiri Heuskarri Sostengua"
+msgstr "Laguntza formatuko fitxategi"
 
 #. i18n-hint: This is what the library (libmad) does - imports MP3 files
 #: src/AboutDialog.cpp:418 src/AboutDialog.cpp:420
 msgid "MP3 Importing"
-msgstr "MP3 Inportazioa"
+msgstr "MP3 inportatzen"
 
 #: src/AboutDialog.cpp:427 src/AboutDialog.cpp:430
 msgid "Ogg Vorbis Import and Export"
-msgstr "Ogg Vorbis Inportazioa eta Esportazioa"
+msgstr "Ogg Vorbis inportazioa eta esportazioa"
 
 #: src/AboutDialog.cpp:434 src/AboutDialog.cpp:437
 msgid "ID3 tag support"
@@ -661,19 +661,19 @@ msgstr "Plug-in sostengua"
 
 #: src/AboutDialog.cpp:548 src/AboutDialog.cpp:551
 msgid "Sound card mixer support"
-msgstr "Soinu txartel nahastzaile sostengua"
+msgstr "Soinu txartel nahasgailu sostengua"
 
 #: src/AboutDialog.cpp:556 src/AboutDialog.cpp:559
 msgid "Pitch and Tempo Change support"
-msgstr "Doinu eta Tenpo Aldaketa sostengua"
+msgstr "Tonu eta tenpo aldaketa sostengua"
 
 #: src/AboutDialog.cpp:564 src/AboutDialog.cpp:567
 msgid "Extreme Pitch and Tempo Change support"
-msgstr "Hertzeko Doinu eta Tenpo Aldaketa sostengua"
+msgstr "Muturreko tonu eta tenpo aldaketa sostengua"
 
 #: src/AboutDialog.cpp:579
 msgid "Program build date: "
-msgstr "Programaren eraiketa eguna:"
+msgstr "Programaren konpilazio eguna:"
 
 #: src/AboutDialog.cpp:585
 msgid "Commit Id:"
